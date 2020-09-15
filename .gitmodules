@@ -1,0 +1,4 @@
+[submodule "OCA/crm"]
+	path = OCA/crm
+	url = git@github.com:OCA/crm.git
+	branch = 13.0
